@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./exuvisacrconsta01mlgoog_0346.png"; bbox 0 0 948 1438; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 357 189 714 206">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 357 189 714 206">
+     <span class='ocr_line' id='line_1_1' title="bbox 357 189 714 206; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 357 194 378 206; x_wconf 79' lang='grc' dir='ltr'>ιΑ</span> <span class='ocrx_word' id='word_1_2' title='bbox 391 194 452 206; x_wconf 73' lang='lat' dir='ltr'>§Am-1¹13</span> <span class='ocrx_word' id='word_1_3' title='bbox 464 194 555 206; x_wconf 69' lang='lat' dir='ltr'>counomnz</span> <span class='ocrx_word' id='word_1_4' title='bbox 682 189 703 206; x_wconf 87' lang='lat'>33</span> <span class='ocrx_word' id='word_1_5' title='bbox 708 195 714 206; x_wconf 85' lang='grc' dir='ltr'><em>ι</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 198 224 715 226">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 198 224 715 226">
+     <span class='ocr_line' id='line_1_2' title="bbox 198 224 715 226; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 198 224 715 226; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 296 1108 628 1125">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 296 1108 628 1125">
+     <span class='ocr_line' id='line_1_3' title="bbox 296 1108 628 1125; baseline 0 -3"><span class='ocrx_word' id='word_1_7' title='bbox 296 1111 322 1125; x_wconf 68' lang='lat' dir='ltr'>rig⁴</span> <span class='ocrx_word' id='word_1_8' title='bbox 327 1114 347 1124; x_wconf 68' lang='grc' dir='ltr'>ω.</span> <span class='ocrx_word' id='word_1_9' title='bbox 352 1117 365 1119; x_wconf 98' lang='grc'>-</span> <span class='ocrx_word' id='word_1_10' title='bbox 371 1111 438 1125; x_wconf 58' lang='lat' dir='ltr'>namu-112</span> <span class='ocrx_word' id='word_1_11' title='bbox 444 1111 458 1122; x_wconf 65' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_12' title='bbox 463 1111 520 1125; x_wconf 61' lang='lat' dir='ltr'>usnam</span> <span class='ocrx_word' id='word_1_13' title='bbox 527 1108 565 1125; x_wconf 71' lang='grc' dir='ltr'><strong>Ερῑιιε</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 571 1111 628 1122; x_wconf 62' lang='lat' dir='ltr'>emron.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
